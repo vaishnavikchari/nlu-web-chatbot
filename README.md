@@ -5,6 +5,7 @@ Find the chatbot demo at:
 https://earthenpot.org/faq-chatbot
 
 # Spec
+* Uses Google Dialogflow for natural language understanding. Reference: https://dialogflow.com
 * Uses Create React App (https://www.npmjs.com/package/create-react-app) to bootstrap Reactjs frontend
 * Uses react-simple-chatbot on npm by Lucas Bassetti for frontend. Also at: https://github.com/LucasBassetti/react-simple-chatbot
 * Uses Nodejs, Express API on Google cloud functions of Firebase, to communicate with Google's dialogflow api for natural language understanding (https://www.npmjs.com/package/dialogflow)
