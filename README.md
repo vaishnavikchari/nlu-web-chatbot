@@ -2,9 +2,12 @@
 
 # Usage:
 Find the chatbot demo at: 
-https://earthenpot.org/faq-chatbot
+https://wordofbot.firebaseapp.com
 
-# Spec
+# Please note: 
+** The links to website from chat are fictitious, so do not return a web page. **
+
+# Spec & Clone instructions: 
 * Uses Google Dialogflow for natural language understanding. Reference: https://dialogflow.com
 * Uses Create React App (https://www.npmjs.com/package/create-react-app) to bootstrap Reactjs frontend
 * Uses react-simple-chatbot on npm by Lucas Bassetti for frontend. Also at: https://github.com/LucasBassetti/react-simple-chatbot
